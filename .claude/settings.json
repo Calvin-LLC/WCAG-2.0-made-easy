@@ -1,5 +1,5 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "schema": "https://json-schema.org/draft/2020-12/schema",
   "name": "WCAG 2.0 Accessibility Project",
   "description": "Claude Code configuration for WCAG 2.0 Level A and AA compliance",
   "version": "1.0.0",
